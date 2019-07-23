@@ -1,7 +1,8 @@
 def square_array(array)
   array = []
   while array[counter] do
-    for
+    for i in 0..3
+    
     
 end
 
