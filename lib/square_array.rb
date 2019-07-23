@@ -1,7 +1,8 @@
 def square_array(array)
   counter = 0
   array = []
-  while array.counter =
+  while array.counter do
+    
 
 end
   
